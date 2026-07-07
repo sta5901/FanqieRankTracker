@@ -101,7 +101,7 @@ def run_scraper(limit=30, sleep_sec=5):
                 print(f"切换分类出错或加载超时 {cat_name}: {e}")
             
             # Scroll to load top ~30 books
-            for _ in range(3):
+            for _ in range(5):
                 page.evaluate("window.scrollBy(0, window.innerHeight)")
                 time.sleep(1.5)
                 
