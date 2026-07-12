@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-11",
-  "prev_date": "2026-07-10",
+  "date": "2026-07-12",
+  "prev_date": "2026-07-11",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 19,
-      "book_count": 560
+      "book_count": 570
     },
     {
       "type": "西方奇幻",
@@ -101,7 +101,7 @@
     {
       "type": "男频衍生",
       "url": "api/lastest/%E7%94%B7%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 20
+      "book_count": 30
     }
   ]
 }
