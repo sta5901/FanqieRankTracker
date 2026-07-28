@@ -1,319 +1,309 @@
 {
   "type": "都市修真",
-  "date": "2026-07-27",
-  "prev_date": "2026-07-26",
+  "date": "2026-07-28",
+  "prev_date": "2026-07-27",
   "category": {
     "name": "都市修真",
     "trend": {
-      "new_count": 4,
-      "dropped_count": 4,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "Ai诸天：杨戬传人从九叔开始",
-        "下山退婚，七个老婆全急了",
-        "乡村典当：每日情报竟有全村黑料",
-        "午夜那些事"
+        "穿越70年，开局一本合欢宗秘籍",
+        "村花你疯了，傻子你也要？"
       ],
       "dropped_books": [
         {
-          "title": "嫂子，你好温柔",
-          "intro": "为了凑钱给嫂子换肾，叶北拨通了冰山女总裁重金求子的电话。 　　从此，开启了一段不同寻常的美妙人生，成了力压群男的猛龙。 　　冰山女总裁投怀送抱。 　　绝色嫂子体贴入微。 　　豪门千金非叶北不嫁...."
+          "title": "神医乱！",
+          "intro": "【美女+乡村+神医+致富】 傻子潦倒人人欺，获得传承变神医， 治病救人不用夸，潇洒快活打恶霸， 有朝一日凌云起，小伙子雄霸天下！"
         },
         {
-          "title": "飞升后，我成了博物馆里的标本",
-          "intro": "修真大佬周扬飞升后，发现修仙就是最大的骗局，所谓的修仙界不过展柜一偶，借着博物馆头骨标本重生，面对飞升后现代版本“仙界”都市，他以修仙逻辑强行理解一切：视手机为传讯法器，拿外卖车当傀儡兽，吞健胃消食片"
-        },
-        {
-          "title": "欢喜桃花村",
-          "intro": "【神医爽文，一爽到底，不爽你来打我】 　　为了彩礼，母亲给徐有容下媚药，欲逼她嫁给赵三炮。药效发作后，她却和江北纠缠一夜。 　　赵三炮知道后，狂揍江北。 　　水月仙子救了江北，并传授他仙法。 　　从此"
-        },
-        {
-          "title": "傻柱不傻了，全村都慌了",
-          "intro": "【多女主】【无敌】【乡村】 赵铁柱是十里八乡有名的傻子。 爹娘死后，只有收养他的赵秀兰，对他不离不弃。 村里人都笑他傻，欺负他，把他打得浑身是血，扔在雨地里等死。 可他们不知道，赵铁柱脑子里藏着一部《"
+          "title": "午夜那些事",
+          "intro": "乡村神医×修真爽文×商业暴富×无敌打脸 陈峰毕业后四处碰壁，回村发展，在一场雨夜中惨遭极品村花设计，被人扔下悬崖，意外获得八卦炉，修神功、炼灵丹、治百病、炼法器、惩恶霸，开启火眼金睛，逆天改命所向披靡"
         }
       ],
       "top_risers": [
         {
-          "title": "高武世界开美食店，武圣都馋哭了",
-          "change": "+5"
+          "title": "一年才一词条？我直接重生套娃！",
+          "change": "+7"
         },
         {
-          "title": "村夜，幸福",
-          "change": "+4"
+          "title": "乡村二驴",
+          "change": "+6"
         },
         {
-          "title": "月夜，征服",
-          "change": "+4"
+          "title": "我一个保安，你让我练合欢功？",
+          "change": "+6"
         }
       ],
       "top_fallers": [
         {
+          "title": "死党是圣女，可我是玄帝传人",
+          "change": "-8"
+        },
+        {
+          "title": "傻柱傻人有傻福",
+          "change": "-5"
+        },
+        {
           "title": "神驴下凡，携山野奇遇带全村致富",
-          "change": "-6"
-        },
-        {
-          "title": "开局解锁武圣特效，谁敢欺负我？",
-          "change": "-6"
-        },
-        {
-          "title": "乡村二驴",
           "change": "-4"
         }
       ],
       "reads_growth": [
         {
           "title": "暑假失踪，开学归来成元婴老祖！",
-          "growth": "+9000"
-        },
-        {
-          "title": "离婚后，我用双修功法修仙",
-          "growth": "+5000"
+          "growth": "+8000"
         },
         {
           "title": "十八岁的太爷爷，他来自修仙界？",
-          "growth": "+4000"
+          "growth": "+7000"
+        },
+        {
+          "title": "老驴，尝鲜",
+          "growth": "+5000"
         }
       ],
-      "summary": "新增4本上榜；4本掉出（《嫂子，你好温柔》、《飞升后，我成了博物馆里的标本》、《欢喜桃花村》、《傻柱不傻了，全村都慌了》）；《高武世界开美食店，武圣都馋哭了》排名上升+5位；《暑假失踪，开学归来成元婴老祖！》阅读量+9000。"
+      "summary": "新增2本上榜；2本掉出（《神医乱！》、《午夜那些事》）；《一年才一词条？我直接重生套娃！》排名上升+7位；《暑假失踪，开学归来成元婴老祖！》阅读量+8000。"
     },
     "books": [
       {
         "title": "路遇黄皮子讨封，封它当玉皇大帝",
         "author": "新夜z",
-        "reads": "36.3万",
+        "reads": "35.3万",
         "intro": "【紫袍天师】【道祖命格】【高武横推】【道法无双】 穿越平行世界的张楚玉，成了龙虎山紫袍天师。 暑假，某夜。 就在张楚玉准备直播夜钓探险的时候！ 镜头当中突然闯入了一只成精的黄皮子，张口就问他，自己像仙还是像神！？ “叮，道祖系统开启！由于宿主首次绑定系统，奖励神级选项一次。” 　　 “一：当面拒绝黄皮子讨封请求，并让它死了这条心。奖励：【讨封终结者称号】免疫任何妖物的讨封负面影响【黄皮子家族报复】” 　　 “二：牛鬼蛇神不堪一击，抓着它前往警局报案，让它体验一下牢狱之灾，奖励：【擒妖手（满级）可擒拿任何小妖】” 　　“三：既然找道爷封神，那道爷成全你，以天师之名，开坛上表，敕告九天，封它当九霄玉皇大帝！有事你特么找玉帝刚！奖励：【金光神咒】【百日精纯元炁修为】【道祖命格】” 　　 张楚玉看着这几个选项，默默穿上紫衣道袍。 　 “一纸天书，上奏天庭，下表地府...” .....",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o458908feebad46581e3e2dba999d5e4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=iHVSXlpGFUR74h%2F7%2BPDD8fqjhDg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o458908feebad46581e3e2dba999d5e4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=5lcovACsrQz3Uh4DnXtSfPmohjE%3D",
         "url": "https://fanqienovel.com/page/7654881714384145470"
-      },
-      {
-        "title": "灵气复苏？前世女帝老婆也复苏了",
-        "author": "黑白之月",
-        "reads": "14.9万",
-        "intro": "【爽文+无敌+杀伐果断+多红颜+伪模拟器】 现代灵气复苏，秦子君得《万世仙书》，只要历经万世红尘，就可成‘万世仙尊’，长生久视，万劫不磨！ 历经‘9999世’，只差最后一世就可修成正果，秦子君回到现代，作为转世者的他只想安安稳稳渡过这一世。 《万世仙书》有一能力，只要写出那一世的故事，就可得到那一世的神通，秦子君发表了多篇大作—— 他曾助大燕公主登临帝位，最后挥手而去，让未来仙朝女帝寻他万年。 他曾为天地立心，为生民立命，夺天下气运助月神望舒重归神位，让神女等他一生。 他曾欺骗羲和感情，自毁道途助她成道，让这位太阳女神悔恨终身。 他曾自诩为‘天’，成东皇太一，横压万世，独断万古，天上天下莫可与敌。 秦子君的转世经历一出，世人震动！ 只是秦子君没想到，除了他以外，还有众多诸天大能也跟着转世，他的那些红颜知己们，全都活出了第二世！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa144a7ac1c8fdaf5d5051d16fcbb3add~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=G0iBJYPdTYDtCcfmffpc1qRUnOQ%3D",
-        "url": "https://fanqienovel.com/page/7651384067501329433"
       },
       {
         "title": "婚礼被妹妹直播，天师身份曝光了",
         "author": "阿思儿",
-        "reads": "15.5万",
+        "reads": "15万",
         "intro": "【直播曝光】+【天师大婚】+【诡异入侵】+【误闯天家】 沈家千金大婚，全网轰动，未婚夫竟是个无人知晓的山里人。 亲妹妹都不敢信：\"我哥？高中没念完那个？\" 直到婚礼直播那天，聘礼一重一重送到！ 【第一重：三天门金箓婚书，三百年来第一封】 【第二重：七星法灯开道，长明千年不灭】 【第三重：太清宫十八代天师联名贺帖】 【第四重：……全网瘫痪，信号中断】 陆家公子：\"我们排队都见不到沈念清，他凭什么？\" 沈家姑：\"山里人能拿什么聘礼？三斤核桃？\" 道门首座真人：\"天师发宏愿娶妻，上一次，是三百年前。\" 全网评论区炸了：\"等，天师是什么级别？有人能解释一下吗？\" 没人知道的是，大婚当日，三界诡异蠢动，百鬼夜行。 太清宫千年法灯齐齐颤动。 陈时渡端坐法座之上，道袍无风自动，抬手间，天地肃杀。 \"大婚之日，诸邪退避。\" \"若有不退者……\" \"斩。\" 沈念清靠在他肩上，笑意盈盈：\"我嫁的人，能护住这天下。\"",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od4c8c8b64a7b7652e997379333ab5026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=ZW5JneX%2F2K5OK4A7XEjO8LUKupA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od4c8c8b64a7b7652e997379333ab5026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=0WIPASz9C7Zb3um16%2FxcbP7txlw%3D",
         "url": "https://fanqienovel.com/page/7652381813955906585"
+      },
+      {
+        "title": "灵气复苏？前世女帝老婆也复苏了",
+        "author": "黑白之月",
+        "reads": "13.6万",
+        "intro": "【爽文+无敌+杀伐果断+多红颜+伪模拟器】 现代灵气复苏，秦子君得《万世仙书》，只要历经万世红尘，就可成‘万世仙尊’，长生久视，万劫不磨！ 历经‘9999世’，只差最后一世就可修成正果，秦子君回到现代，作为转世者的他只想安安稳稳渡过这一世。 《万世仙书》有一能力，只要写出那一世的故事，就可得到那一世的神通，秦子君发表了多篇大作—— 他曾助大燕公主登临帝位，最后挥手而去，让未来仙朝女帝寻他万年。 他曾为天地立心，为生民立命，夺天下气运助月神望舒重归神位，让神女等他一生。 他曾欺骗羲和感情，自毁道途助她成道，让这位太阳女神悔恨终身。 他曾自诩为‘天’，成东皇太一，横压万世，独断万古，天上天下莫可与敌。 秦子君的转世经历一出，世人震动！ 只是秦子君没想到，除了他以外，还有众多诸天大能也跟着转世，他的那些红颜知己们，全都活出了第二世！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa144a7ac1c8fdaf5d5051d16fcbb3add~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=hif0V%2B%2FsP24GBMkeOtRU8IrA%2BPg%3D",
+        "url": "https://fanqienovel.com/page/7651384067501329433"
       },
       {
         "title": "我在短剧世界吃瓜",
         "author": "迷途知返小沙弥",
-        "reads": "9.4万",
+        "reads": "8.7万",
         "intro": "（主角无敌，不憋屈，里面有大量短剧狗血剧情，多女，不喜勿点） 穿越到修仙世界，修行八千年的沈天赐，飞升到了一个短剧大融合世界。 霸道总裁有个龙王赘婿，等待白月光回归的大姐。 深爱自大狂妄霸道总裁，甘愿默默付出的二姐。 暗恋黑客大神，天才计算机少女小妹。 扭捏造作绿茶浓度爆表的假少爷弟弟。 学习天赋拉满，成为高考状元的真少爷弟弟。 年过古稀，还想着修仙的不正经爷爷。 沈天赐一边大口吃瓜，一边拯救这些不太正常的家人。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of87698569872b84e3e4866acf4ccc0e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=mbJuXXOmsraR5qj9m6ztOILUzhQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of87698569872b84e3e4866acf4ccc0e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=XlfZx9Wg5yyNk6SsBNbC4Iapf9I%3D",
         "url": "https://fanqienovel.com/page/7635183918467009561"
       },
       {
         "title": "大一赶尸去报到，749局长哭了",
         "author": "河狸爱洗澡",
-        "reads": "7.8万",
+        "reads": "7.4万",
         "intro": "【都市+赶尸+无厘头+749局+搞笑惊悚】 湘西赶尸一脉传人张维，大一暑假被老爹赶下山，任务是将一位客死异乡的“客户”送回老家落叶归根。 为了省路费，张维直接把贴了符的“客户”当成共享单车骑！ 路遇黄皮子讨封：“你看我像人，还是像神？” 张维反手一巴掌抽过去：“我看你像个备胎！懂不懂规矩？挡老子路了知道吗？这客户撞坏了你赔得起吗？！” 黄鼠狼懵了，749局惊了。 事后，张之维被强行招入749局。 “报告局长，张维正骑着尸体在高速上飙车，时速一百二！” “不好！他逼着贞子给他推车，因为没油了！” 749局众人：“求你了，别把基地搞得像义庄一样全是棺材！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eeba5cbe9719f4fe8f0d6b36edfbe76~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=L1PVP8KiKj6upikHkSn1oIh25Fo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eeba5cbe9719f4fe8f0d6b36edfbe76~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=OhMiSoGYA63M0HVCrp7jPrC0%2F7I%3D",
         "url": "https://fanqienovel.com/page/7654141974349351998"
       },
       {
         "title": "老驴，尝鲜",
         "author": "果冻h",
-        "reads": "8.2万",
+        "reads": "8.7万",
         "intro": "年过六旬、孤寡、绝症、众叛亲离，林山以为自己终将潦草落幕。 直到漂亮的女房客投怀送抱，命运悄然转折。 失传修真传承现世，老朽身躯脱胎换骨，绝症不治而愈。 谁说暮年只能等死？ 且看白发老者，于现代都市修行悟道，横扫困顿，逍遥世间！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb0315993fc5b67830013691e1bf7bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=hBDmhH%2BCSv9Ehjf0OQiYVF%2BUFUQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb0315993fc5b67830013691e1bf7bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=CiXrgdl%2FEUUk8385keVrhjZY2Y8%3D",
         "url": "https://fanqienovel.com/page/7632565390865878041"
-      },
-      {
-        "title": "村夜，幸福",
-        "author": "三人二小",
-        "reads": "6.4万",
-        "intro": "乡村的夜，是别有特色的，是让人激动的。 桃花村在方小俊回来的那一刻，发生了天翻覆地的变化。 他利用自己的能力，让村里的女人富裕起来，让她们的生活幸福起来。 不过，最重要的是，他要带领大家一起致富。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c700be63e35e8cd5aad468403dc684f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=eyFF3piR9MnIfmr2s7yDOOSPgsY%3D",
-        "url": "https://fanqienovel.com/page/7654416305524591640"
       },
       {
         "title": "暑假失踪，开学归来成元婴老祖！",
         "author": "做梦都想开大G",
-        "reads": "7.9万",
+        "reads": "8.7万",
         "intro": "【爽文+ 无系统 + 无敌+传道反哺】 拿到大学录取通知书的那天，陈默离奇失踪。 整整两个月杳无音信，所有人都以为他被骗去了缅北。 没人知道，地球上的两个月，他却被卷入残酷的修仙界，足足杀伐了五百年！ 五百年的尸山血海，他从一介凡人横推万古，登顶元婴大道，成为万界战栗的“沧溟仙尊”！ 如今归来，正好赶上了大一开学报到。 面对地球灵气枯竭的绝境，陈默丝毫不慌，反手祭出逆天功法《造化星火决》！ 自己修炼太慢？ 那就让别人替我修！ 只要赐下“道种”，别人苦修得来的修为、造化，便会千倍万倍自动反哺到他身上！ 于是，整个都市的画风变了。 清冷校花、财阀大佬、神医圣手纷纷沦为他的“修炼工具人”！ 不可一世的财阀大佬：“陈大师，只要你愿意收我为徒，千亿家产皆是你的！” 清冷校花：“求陈默哥哥赐下道种，人家愿意永远给你暖被窝嘛！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4d032e387b2f2c83b3cd1fd280f26a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=YbZ7RFF9p9lq%2FZGl97XIg2NaaaY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4d032e387b2f2c83b3cd1fd280f26a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=DeC8%2BhaBBu84D5QX35oeHMEbK7o%3D",
         "url": "https://fanqienovel.com/page/7634571778957790232"
+      },
+      {
+        "title": "村夜，幸福",
+        "author": "三人二小",
+        "reads": "6.6万",
+        "intro": "乡村的夜，是别有特色的，是让人激动的。 桃花村在方小俊回来的那一刻，发生了天翻覆地的变化。 他利用自己的能力，让村里的女人富裕起来，让她们的生活幸福起来。 不过，最重要的是，他要带领大家一起致富。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c700be63e35e8cd5aad468403dc684f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=su1Hb1%2FFMHNHiNH%2FokgxuEpoSZc%3D",
+        "url": "https://fanqienovel.com/page/7654416305524591640"
       },
       {
         "title": "灵气复苏，两天成为红尘仙",
         "author": "青山绿改",
-        "reads": "5.7万",
+        "reads": "5.2万",
         "intro": "【慢节奏】【日常】【绝对无敌】【剧情流】 灵气复苏，大争之世开启。 妖魔祸乱神州，邪道横行，秩序崩塌，各个时代的天骄转世而来，风华绝代。 文圣执笔镇妖，兵仙横刀守疆，道祖法御乾坤，女帝凤定天下…… 世人皆追天骄，仰其荣光，奉其为救世支柱。 却不知，万丈封神台，万古天骄路，全都绕不过一位少年郎。 五年沉睡，一场庄生蝶梦。 当他苏醒归来， 世人拜天骄，天骄拜先生！ 陈玄：诸位，好久不见，说好顶峰相见，你们怎么又在山脚？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd6b6e6edcd8392790d5d858b2ac8ba3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=s2EJ5%2BewPrARhD0fE8u6%2Btf9p4Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd6b6e6edcd8392790d5d858b2ac8ba3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=r9Sqivgr%2BJSgViVSkob4TibiImg%3D",
         "url": "https://fanqienovel.com/page/7648653733970070553"
       },
       {
         "title": "十八岁的太爷爷，他来自修仙界？",
         "author": "西孑",
-        "reads": "5.5万",
+        "reads": "6.2万",
         "intro": "苏阳为了突破至高境界，修为炼气境9999层的他重返地球。 当年一别，地球早已经是物是人非！ 大哥小妹早已去世，留下了一大群苏家后辈。 因为服用了回颜丹，苏阳容颜看起来就只有十八岁。 认亲后，老苏家这下可就热闹了 调皮捣蛋的小萝莉，惹是生非的小黄毛… 看苏老魔这个年轻的太爷爷，如何重塑苏家荣誉…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbebdb646f9c01b396b525860c11c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=nx3yQ6cEYWOt%2F4ro%2BIukOi%2BLGxU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbebdb646f9c01b396b525860c11c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=OrkVi8a9ZlDXBtJTH2qDGExDNH0%3D",
         "url": "https://fanqienovel.com/page/7652760162108705816"
       },
       {
-        "title": "盗墓：开局吞千年尸王，邪修吓疯",
-        "author": "墨冰仙1992",
-        "reads": "4万",
-        "intro": "王霄穿越妖魔横行的民国乱世，成了地主老财，腰缠万贯却屡受邪崇和山贼威胁，好在签到系统在手，他炼巫术，豢兽兵，吞噬万物强化己身。当资源匮乏，古墓门开启，他毅然下墓，誓以万妖本源，铸就不朽魔身！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a881b8bebe0327d67bbab72e53df58a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=68aGlRyJ9763jxDrdD5%2BaiNQqzA%3D",
-        "url": "https://fanqienovel.com/page/7658619439402716222"
+        "title": "乡村二驴",
+        "author": "一个好人丫",
+        "reads": "3.2万",
+        "intro": "他叫吕梁，村里人都叫他二驴。 五年前他是全村第一个大学生，风光无限。 五年后他是全村最大的笑话——一个被人打傻的废物，靠着村民接济过活。 傻归傻，村里的女人们嘴上嫌弃，心里惦记。 于是，傻子醒了。 千年功法在身，二驴不再是二驴。 他要让害他的人血债血偿，也要让那些对他好的女人，都过上好日子。 乡村土路，杨柳树荫，家长里短，人情世故。 二驴的快活日子，才刚刚开始。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofdff48b82a0551449b9dd682674107fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Hy23c9dR1aqa%2BHZpTllAcqo7Css%3D",
+        "url": "https://fanqienovel.com/page/7647442709082278936"
       },
       {
         "title": "月夜，征服",
         "author": "长风逐浪",
-        "reads": "4.5万",
+        "reads": "4.4万",
         "intro": "某个自山村穷小子林凡，因一次意外觉醒了上古医道传承，从此医术通天，命运逆转。 平日里，他是不起眼的小村医，可谁能想 ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9df56b1ca35a5aa8d0d79afed23ddf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=Klh18i%2B8nhBSVczAKo1%2FrZyJVPk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9df56b1ca35a5aa8d0d79afed23ddf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=9juwcxl%2BB%2Fge0Dn3C5Ci%2BL8IEPs%3D",
         "url": "https://fanqienovel.com/page/7644158649341856793"
-      },
-      {
-        "title": "死党是圣女，可我是玄帝传人",
-        "author": "清茶伴余生",
-        "reads": "3.3万",
-        "intro": "我是当代玄帝，兼职人间界主，但寿元将尽。 我找了个传人陈洛，结果他转头悟了道，长生不老了。 我：……6。 现在他的死党是太清圣女，天天在装男生。 我蹲在云上嗑瓜子，看他俩一个努力赚灵石，一个努力装男生。 我吐掉瓜子壳，笑出鹅叫：“这年轻人，真会玩。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c40bd2273fa4a9eff2792f745342e00~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=q9RtKtXnVfUsVV5b2hVJyykWJ%2B4%3D",
-        "url": "https://fanqienovel.com/page/7630681037156125758"
       },
       {
         "title": "离婚后，我用双修功法修仙",
         "author": "夜歌紫",
-        "reads": "5.3万",
+        "reads": "5万",
         "intro": "杨赢道将奸夫乱刀砍死后锒铛入狱，被判五年牢狱生活，狱中结识盗墓贼，意外获得双修功法，阳极霸体激活《阴阳帝经》，从此海阔天空。 【阳极霸体+多女主+杀伐果断+无限爽+医术+风水】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6ea1e2efcfd6a4645113d4504f3780~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=eMKc74%2FZ8YY1xd5K4aLbPVlsXfw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6ea1e2efcfd6a4645113d4504f3780~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=QHqm9M9KiPe3cSuv9%2BI6g8Rsk8c%3D",
         "url": "https://fanqienovel.com/page/7639730630737005592"
+      },
+      {
+        "title": "盗墓：开局吞千年尸王，邪修吓疯",
+        "author": "墨冰仙1992",
+        "reads": "3.7万",
+        "intro": "王霄穿越妖魔横行的民国乱世，成了地主老财，腰缠万贯却屡受邪崇和山贼威胁，好在签到系统在手，他炼巫术，豢兽兵，吞噬万物强化己身。当资源匮乏，古墓门开启，他毅然下墓，誓以万妖本源，铸就不朽魔身！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a881b8bebe0327d67bbab72e53df58a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=5FV3tb9smQnF7ORKf2BUw%2FqHGlQ%3D",
+        "url": "https://fanqienovel.com/page/7658619439402716222"
       },
       {
         "title": "乡村神医，张凡的妖孽生活",
         "author": "贾冷",
         "reads": "4.1万",
         "intro": "【乡村】+【种地】+【捕鱼】+【爽文】+【无敌】 穷困潦倒，债台高筑的张凡，又被村花退婚。 他意外获得了通天传承，从此过上了人人羡慕的美好生活。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0796b64f4a694dd602846ed64b7acc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=kok3SYmAx5Z09xWYM5zz3i6M4IY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0796b64f4a694dd602846ed64b7acc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Z2nq4g5jGA2nK0E%2FzUYPXTImGAs%3D",
         "url": "https://fanqienovel.com/page/7646215936516574270"
-      },
-      {
-        "title": "神驴下凡，携山野奇遇带全村致富",
-        "author": "红桃9",
-        "reads": "3.5万",
-        "intro": "山村少年偶遇下凡神驴，得天赐山野机缘。 在众多美女姐姐、老板的帮助带领下开荒兴产，盘活乡野宝藏，帮全村脱贫致富，谱写山村振兴传奇。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o94a694e264a7cf94a6f3a1594b3b261f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=A2Bb0pmwJ2%2BE1hJK9pdapqwyC8E%3D",
-        "url": "https://fanqienovel.com/page/7642941012855229465"
-      },
-      {
-        "title": "乡村二驴",
-        "author": "一个好人丫",
-        "reads": "3.5万",
-        "intro": "他叫吕梁，村里人都叫他二驴。 五年前他是全村第一个大学生，风光无限。 五年后他是全村最大的笑话——一个被人打傻的废物，靠着村民接济过活。 傻归傻，村里的女人们嘴上嫌弃，心里惦记。 于是，傻子醒了。 千年功法在身，二驴不再是二驴。 他要让害他的人血债血偿，也要让那些对他好的女人，都过上好日子。 乡村土路，杨柳树荫，家长里短，人情世故。 二驴的快活日子，才刚刚开始。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofdff48b82a0551449b9dd682674107fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=e%2BG4CoyDC%2FRQPi7u4OIM8vdPXf8%3D",
-        "url": "https://fanqienovel.com/page/7647442709082278936"
-      },
-      {
-        "title": "入夜，诱惑",
-        "author": "鱼不虚",
-        "reads": "3.8万",
-        "intro": "乡村神医x都市修仙x无敌爽文x杀伐果断x种田致富 王大炮被打傻后丢回村子，意外获得无敌传承！从此逆天改命，修神功、驱恶霸、治百病、搞经济，无所不能，带领村民们发家致富，走上人生巅峰！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9511e4386ad9b0189a3aadf368f9eb8b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=KTcqb0fwOn0II6RazJNzvTRz%2BCI%3D",
-        "url": "https://fanqienovel.com/page/7641288709958028312"
-      },
-      {
-        "title": "傻柱傻人有傻福",
-        "author": "一粒油",
-        "reads": "2.8万",
-        "intro": "【百位女主不重样】+【一边种田一边修仙】 傻子陈大柱意外觉醒体内仙苗，他恢复正常并获得绝世医术的同时，一只脚踏入了修仙之门。 从此之后，陈大柱每天只想一边种地发家致富，一边修炼找到爷爷的下落，却没想到美女总裁、温柔记者、俏皮游戏主播、还有村里那些留守的女人们总是打他的主意。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb1b24ad4327400497dfa0bf67eebacd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=sdqsI1vohMzqHyWgZrCM5qso%2FsM%3D",
-        "url": "https://fanqienovel.com/page/7647532779919379518"
-      },
-      {
-        "title": "断网后我连通了魔法界",
-        "author": "飘洒清风",
-        "reads": "3.2万",
-        "intro": "【伪幕后】【伪群像】【创法者】【改变世界】 裸辞回家第一天，流星砸穿窗户，砸中了林泽的电脑。 桌面上多出个删不掉的论坛，拔了网线照样刷，里面全是异界法师战士吵嘴。 林泽人傻了。 合着给我个魔法窗口，这世界连根魔力毛都没有？ 古法没用，法师当不成，被逼得先练起了蛮子的斗气。 练着练着他玩出花了。 把地球经脉法门揉进斗气，修炼速度直接翻三倍，肉身反哺神魂，精神力涨得比法师还快。 卖本《异魔经》，异界战宗抢着送钱，魔币、魔兽精血、黄金摆件，跨世界包邮到家。 再往后，他把斗气与魔法熔为一炉，创出独一份的修仙大道。 以众生精神为魔力，化虚幻为现实，册封满天神佛，开启封神纪元。 全世界都在找超凡源头，只有林泽蹲在出租屋里，默默给新神改人设。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f6681508604412cae9e3e1962ff3aa0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=s6UF6xKx7ZJDi%2FycsIj%2BBA62uzQ%3D",
-        "url": "https://fanqienovel.com/page/7651981096426425368"
-      },
-      {
-        "title": "判我死刑，复活后的我杀疯了",
-        "author": "爱吃早餐劵的纪北",
-        "reads": "3.7万",
-        "intro": "主角：顾尘心 【都市修真】+【都市】+【爽文】+【重生复活】+【无敌】+【诸天万界】+【升级流】 顾尘心，一个被冤枉后判处死刑的孤儿 当他从刑场死而复生，当他寻回前世记忆 终裁庭的判官，斩了。 陷害他的周家，灭了。 维安局的大楼，一掌拍进地底。 那些曾经高高在上、视他为蝼蚁的人，此刻跪在他面前瑟瑟发抖。 “我的规矩，就是规矩。” 当斩天刀归位，当他再次踏足星空 一人一把斩天刀，又会重新给这个宇宙带来怎样的风波…… 请移步正文",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o48fd3b78b45790d1138a2a70432360ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=6OJOSbP%2FuzZlcc39On7so0Vl0xQ%3D",
-        "url": "https://fanqienovel.com/page/7642575123186191385"
       },
       {
         "title": "我一个保安，你让我练合欢功？",
         "author": "风中轻羽",
-        "reads": "4万",
+        "reads": "4.2万",
         "intro": "【都市修仙+美女如云+暴爽无敌+医武双绝】 秦旭只是个保安，被女友劈腿，被黑老大欺负…… 突然有一天，他觉醒了上古传承，阴阳合欢功！ 从此以后，秦旭走上人生巅峰！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae1d4c7f9b98e470c07715dbabe2d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=p3YvzW4EBhKv%2B4xtSa7VD0aFjGs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae1d4c7f9b98e470c07715dbabe2d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Q4q6gF%2F6Uim2Lpl3z6RRcgSB4oE%3D",
         "url": "https://fanqienovel.com/page/7644157491525192766"
-      },
-      {
-        "title": "神医乱！",
-        "author": "好鱼上水",
-        "reads": "3.3万",
-        "intro": "【美女+乡村+神医+致富】 傻子潦倒人人欺，获得传承变神医， 治病救人不用夸，潇洒快活打恶霸， 有朝一日凌云起，小伙子雄霸天下！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945dccf3c61ce916e2471996d9c7060~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=D9oBNb4FhVluCqh0tbqa6N%2B6IRs%3D",
-        "url": "https://fanqienovel.com/page/7568814050193198105"
       },
       {
         "title": "一年才一词条？我直接重生套娃！",
         "author": "骑猪去漂流",
-        "reads": "4.1万",
+        "reads": "4.4万",
         "intro": "【词条+死后重开+快节奏+日常向】 穿越异世，李昊获得每年抽一次的【词条】外挂，可惜爆率低得吓人，二十年全是没啥用的白色词条。 所幸在二十一岁那年，竟然抽出了骇人听闻的神话品质词条：往生簿！ 装备【往生簿】，死后即可重开一世，并且继承上一世所有的词条、修为、武技等！ 每一世，李昊都拼尽全力，每活一年就可以获得新的词条！ “哈哈哈，外挂让我重开，活着终将无敌！词条来！” “我见过很多天才，但他们都会叫我大佬！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o975668589ba6489e56e4afd42b78c90e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=CCHX%2FwZddylqHdDbbcNLdMxLS3E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o975668589ba6489e56e4afd42b78c90e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=N69%2Fo4vPSv1dTirOS2iQkubUDNA%3D",
         "url": "https://fanqienovel.com/page/7646747914882010136"
+      },
+      {
+        "title": "判我死刑，复活后的我杀疯了",
+        "author": "爱吃早餐劵的纪北",
+        "reads": "4.1万",
+        "intro": "主角：顾尘心 【都市修真】+【都市】+【爽文】+【重生复活】+【无敌】+【诸天万界】+【升级流】 顾尘心，一个被冤枉后判处死刑的孤儿 当他从刑场死而复生，当他寻回前世记忆 终裁庭的判官，斩了。 陷害他的周家，灭了。 维安局的大楼，一掌拍进地底。 那些曾经高高在上、视他为蝼蚁的人，此刻跪在他面前瑟瑟发抖。 “我的规矩，就是规矩。” 当斩天刀归位，当他再次踏足星空 一人一把斩天刀，又会重新给这个宇宙带来怎样的风波…… 请移步正文",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o48fd3b78b45790d1138a2a70432360ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=qVZBgRsgnSdOB%2B2TqSLhHRGtx2k%3D",
+        "url": "https://fanqienovel.com/page/7642575123186191385"
+      },
+      {
+        "title": "入夜，诱惑",
+        "author": "鱼不虚",
+        "reads": "4万",
+        "intro": "乡村神医x都市修仙x无敌爽文x杀伐果断x种田致富 王大炮被打傻后丢回村子，意外获得无敌传承！从此逆天改命，修神功、驱恶霸、治百病、搞经济，无所不能，带领村民们发家致富，走上人生巅峰！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0254bb3588f19408b03fd9889000a2d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=MoM8MlYLUtVAi90%2BIzEHoM8WKb8%3D",
+        "url": "https://fanqienovel.com/page/7641288709958028312"
+      },
+      {
+        "title": "神驴下凡，携山野奇遇带全村致富",
+        "author": "红桃9",
+        "reads": "3.6万",
+        "intro": "山村少年偶遇下凡神驴，得天赐山野机缘。 在众多美女姐姐、老板的帮助带领下开荒兴产，盘活乡野宝藏，帮全村脱贫致富，谱写山村振兴传奇。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o94a694e264a7cf94a6f3a1594b3b261f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=ddavvDU2nrOZo5uL9poWVnGvUPE%3D",
+        "url": "https://fanqienovel.com/page/7642941012855229465"
+      },
+      {
+        "title": "死党是圣女，可我是玄帝传人",
+        "author": "清茶伴余生",
+        "reads": "3.3万",
+        "intro": "我是当代玄帝，兼职人间界主，但寿元将尽。 我找了个传人陈洛，结果他转头悟了道，长生不老了。 我：……6。 现在他的死党是太清圣女，天天在装男生。 我蹲在云上嗑瓜子，看他俩一个努力赚灵石，一个努力装男生。 我吐掉瓜子壳，笑出鹅叫：“这年轻人，真会玩。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c40bd2273fa4a9eff2792f745342e00~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=thjEjnAtXwX8%2FAwkjqLsvCvblds%3D",
+        "url": "https://fanqienovel.com/page/7630681037156125758"
+      },
+      {
+        "title": "断网后我连通了魔法界",
+        "author": "飘洒清风",
+        "reads": "3.1万",
+        "intro": "【伪幕后】【伪群像】【创法者】【改变世界】 裸辞回家第一天，流星砸穿窗户，砸中了林泽的电脑。 桌面上多出个删不掉的论坛，拔了网线照样刷，里面全是异界法师战士吵嘴。 林泽人傻了。 合着给我个魔法窗口，这世界连根魔力毛都没有？ 古法没用，法师当不成，被逼得先练起了蛮子的斗气。 练着练着他玩出花了。 把地球经脉法门揉进斗气，修炼速度直接翻三倍，肉身反哺神魂，精神力涨得比法师还快。 卖本《异魔经》，异界战宗抢着送钱，魔币、魔兽精血、黄金摆件，跨世界包邮到家。 再往后，他把斗气与魔法熔为一炉，创出独一份的修仙大道。 以众生精神为魔力，化虚幻为现实，册封满天神佛，开启封神纪元。 全世界都在找超凡源头，只有林泽蹲在出租屋里，默默给新神改人设。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f6681508604412cae9e3e1962ff3aa0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=VHcOj9XPCHsrC1Ko9dvc4bzOSoM%3D",
+        "url": "https://fanqienovel.com/page/7651981096426425368"
       },
       {
         "title": "高武世界开美食店，武圣都馋哭了",
         "author": "泉水泡茶",
-        "reads": "3.3万",
+        "reads": "3.5万",
         "intro": "陈安穿越到一个武力为尊的世界，这个世界的主流为丹药，饿了吃一颗饱腹丹，要突破了吃一颗破镜丹，受伤了，吃一颗疗伤丹。 但他却觉醒的是美食系统。 自此，一个地角不好，位置不佳，卖的菜品还贼贵的美食店，成为了众人口中的传奇。 一碗蛋炒饭108，却能帮人突破境界，一碗白粥99，能滋润身心，舒筋活血。 还有麻辣烤鱼，豆腐脑，红烧肉，佛跳墙... 每一道美食，都能引起众人的欢呼，每一道美食都是众人追捧的对象。 普通凡人，将其当做心中圣地；武道高手，将其当做每日打卡食堂；高级猎人，将其当做战前补给。 一家美食小店，搅动高武风云，成就至高传奇！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0368b721fe4ae1acf0a82a1b5286479~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=sd43I8enhSbswtnES%2BuqLBL5r%2FY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0368b721fe4ae1acf0a82a1b5286479~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=9%2FK%2BqINf26ERN5eYzvkOng7YBlk%3D",
         "url": "https://fanqienovel.com/page/7656690011470826558"
       },
       {
-        "title": "Ai诸天：杨戬传人从九叔开始",
-        "author": "怪R人",
-        "reads": "3万",
-        "intro": "陈槊冲电玩Ai时，手机爆炸，穿越到了九叔世界一个小乞丐身上。 陈槊醒来后，发现自己所处的位置在二郎神杨戬的庙宇中。 陈槊跟二郎神的神像对视，神像眉心射出来了知道白光，进入陈槊的脑海里。 原来这具身体是十世善人，本该上天为官，却被冒名顶替了，神魂还被丢到了其他世界，附在了一个小乞丐。 杨戬作为司法天神，刚好碰见了去上任的官员，见他一个凡人，没什么功德却能为官，一查才知道。 作为补偿，杨戬收陈槊为记名弟子，传他天眼、《道德经》、《八九玄功》改良版的《九转金身诀》，要是陈槊能修炼成仙，就收他为徒。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119af8d72ddc20a9d24eddaa25a9a129~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=%2F1CJJOvSjy%2FsgiK20wCOelajBfc%3D",
-        "url": "https://fanqienovel.com/page/7647439310525828121"
+        "title": "傻柱傻人有傻福",
+        "author": "一粒油",
+        "reads": "2.7万",
+        "intro": "【百位女主不重样】+【一边种田一边修仙】 傻子陈大柱意外觉醒体内仙苗，他恢复正常并获得绝世医术的同时，一只脚踏入了修仙之门。 从此之后，陈大柱每天只想一边种地发家致富，一边修炼找到爷爷的下落，却没想到美女总裁、温柔记者、俏皮游戏主播、还有村里那些留守的女人们总是打他的主意。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb1b24ad4327400497dfa0bf67eebacd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=4HrBwzaeK4okMph3RYgLLv6XVSc%3D",
+        "url": "https://fanqienovel.com/page/7647532779919379518"
       },
       {
         "title": "下山退婚，七个老婆全急了",
         "author": "天男星",
-        "reads": "2.9万",
+        "reads": "2.8万",
         "intro": "十八年前，燕京陆家惨遭灭门，五岁的陆尘被天机老道带上昆仑山。 十八年后，陆尘携七份婚书，以修真满级之姿强势下山！ 刚到江州，江南战区第一女战神便带兵堵门，将泛黄的婚书甩在他脚下：“我乃大夏战神，你一个山野村夫，也配娶我？签字，退婚！” 陆尘笑了，连眼皮都没抬，当众将婚书撕得粉碎。 “巧了，我也没兴趣娶你。从现在起，是我陆尘不要你。你，被我休了！” 女战神勃然大怒，化境巅峰修为全开，誓要将这狂妄小徒镇压！ 然而下一秒，陆尘只是轻描淡写地抬起一只手，便将高高在上的女战神如拎小鸡般掀翻在地。 “半步宗师？化境巅峰？在我眼里，连给我挠痒都不配！” 这一天，江州震怖。 这一天，那个穿着洗发白休闲服的青年，开启了他横推世间一切敌的无敌之路！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb2a9af44c013500ac4a52d37355d502~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=sx4SKK4GUnwwxrA22aUIFBw%2BzP4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb2a9af44c013500ac4a52d37355d502~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=AJjOuuC%2BCb8p2AJuW88%2F4hyEE7k%3D",
         "url": "https://fanqienovel.com/page/7655228890679348249"
       },
       {
         "title": "乡村典当：每日情报竟有全村黑料",
         "author": "渣渣",
-        "reads": "3.1万",
+        "reads": "3.2万",
         "intro": "（乡村+神医+种田+商业+多女主） 姜离被前女友林薇怂恿，在村里开了一家典当铺。 本以为血本无归，却意外得到一个可以刷新情报、修炼自身的玄天宝镜。 【林薇和你开店时候动了手脚，证据被丢在村口柴火垛，如果你能拿到证据，或许会得到一些补偿】 【十天后山洪封村，静香嫂子想要换取一袋面粉】 ...... 姜离惊奇的发现，随着在典当行交易老物件的增多，自己居然无敌了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc341bfd137c2e5fd127fa12aada731ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=xwHc6EbW%2FfKRN5mCgqKYVmaDgBU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc341bfd137c2e5fd127fa12aada731ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=zsk48LseL10xFrKjYaWjbHezoKk%3D",
         "url": "https://fanqienovel.com/page/7656023842191592472"
       },
       {
-        "title": "午夜那些事",
-        "author": "墨彦竹",
-        "reads": "1.7万",
-        "intro": "乡村神医×修真爽文×商业暴富×无敌打脸 陈峰毕业后四处碰壁，回村发展，在一场雨夜中惨遭极品村花设计，被人扔下悬崖，意外获得八卦炉，修神功、炼灵丹、治百病、炼法器、惩恶霸，开启火眼金睛，逆天改命所向披靡，带领全村种田致富，打造属于自己的商业帝国！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc58b7d208bb79f864d785e46409f4be0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=W3BgKwuLhctNIQ5%2BugS3sBxM828%3D",
-        "url": "https://fanqienovel.com/page/7647730052452322366"
+        "title": "Ai诸天：杨戬传人从九叔开始",
+        "author": "怪R人",
+        "reads": "3.1万",
+        "intro": "陈槊冲电玩Ai时，手机爆炸，穿越到了九叔世界一个小乞丐身上。 陈槊醒来后，发现自己所处的位置在二郎神杨戬的庙宇中。 陈槊跟二郎神的神像对视，神像眉心射出来了知道白光，进入陈槊的脑海里。 原来这具身体是十世善人，本该上天为官，却被冒名顶替了，神魂还被丢到了其他世界，附在了一个小乞丐。 杨戬作为司法天神，刚好碰见了去上任的官员，见他一个凡人，没什么功德却能为官，一查才知道。 作为补偿，杨戬收陈槊为记名弟子，传他天眼、《道德经》、《八九玄功》改良版的《九转金身诀》，要是陈槊能修炼成仙，就收他为徒。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119af8d72ddc20a9d24eddaa25a9a129~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=QSj0QK4k3QqF%2FUwwIgaXeUWqTVs%3D",
+        "url": "https://fanqienovel.com/page/7647439310525828121"
+      },
+      {
+        "title": "穿越70年，开局一本合欢宗秘籍",
+        "author": "都退后让贫道来",
+        "reads": "3.3万",
+        "intro": "负债累累后无奈躺平的现代中登李轻舟意外捡到个系统，加入穿越大军幻想修炼成仙，结果被坑了。 系统不着调，不仅没有带他穿越修仙世界，反而把他送到了70年，扔下一些破烂后提桶跑路了。 70年啊，一个特别有激情却又相当让人不自在的年代，一不小心就要被收拾。 作为一个肩不能扛、手不能提的现代废柴，李轻舟孤身而来，欲哭无泪，生怕自己活不过三集。 盘点系统给的破烂后，李轻舟哭的更大声了—— 一本合欢宗初级功法，一个打不开的芥子空间，空间里一把强化过的唐刀，一个用来改变容貌、隐匿踪迹的幻相敛息玉符，几枚灵石，一些合欢宗用的迷药，一身避尘夜行衣…… 看看，看看，有限制就算了，狗屁系统给的这都是些什么玩意儿？合欢迷药和夜行衣都搞出来了，确定这不是采花贼的标准配置？ 关键是你倒是把东西给我啊，打开芥子空间需要双修获得灵力是什么鬼操作？ 好吧，既来之则安之，反正也回不去了，合欢宗就合欢宗吧，合欢宗就不是修仙宗门了？ 虽然后世他只是一个有贼心没贼胆的老光棍，来了这个陌生的世界，为了生存，他的道德底线也不是不能调的更低一些。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od33c541cb02b21c27e35c76ce1513056~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=NMcOIwAbFRIAKt87nST%2Bmv2WL4s%3D",
+        "url": "https://fanqienovel.com/page/7656998233381555225"
+      },
+      {
+        "title": "村花你疯了，傻子你也要？",
+        "author": "壮士一去兮",
+        "reads": "3.6万",
+        "intro": "【傻子很幸福，女人很漂亮】 大学生林枫变成傻子后，村里的姐姐们很照顾他。 有一天，他突然获得了传承，脑子也正常了。 然后，他就带着姐姐们挣大钱，让她们过上了幸福美好的生活！ 这是一个傻子逆袭成王的传奇故事！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2b5564c4c41553f4b01f004c614aea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=sa3Pv96wblAG%2FW52kMnMc35GOnQ%3D",
+        "url": "https://fanqienovel.com/page/7650556384353717310"
       },
       {
         "title": "开局解锁武圣特效，谁敢欺负我？",
         "author": "五十胜天命之年",
-        "reads": "1.7万",
+        "reads": "1.5万",
         "intro": "【都市高武】 + 【特效装逼】 + 【全员迪化】 + 【暴爽无敌】 + 【搞笑】 都市武道盛行，强者为尊，欺凌之事屡见不鲜。 福利院少年姜澜，因为没钱没权没势，饱受欺压，绝境之下意外解锁武圣特效！ 圣辉笼罩，威压震慑四方，武圣气场尽显！ 往日欺辱我的人？如今放眼全城，又有何人敢再动手？ 姜澜负手而立，开启武圣特效：“今我为武圣，尔等谁敢在我面前造次！” 面对暗黑禁区主宰降临世界，欲要毁灭世界。 然而姜澜直接特效全开！ 【叮，杀意，血海幽冥特效开启，在他人眼中你就是生杀夺予幽冥地狱之主！】 【叮，万剑归宗特效开启，无数剑影遮天蔽日，恐怖剑势威震八方！】 【叮，天雷滚滚特效开启，天空乌云密布，雷鸣滚滚，宛如苍天雷罚降临！】 【叮，大荒囚天指特效开启，恐怖巨指从天而降，一指碎天，镇苍穹！】 禁区之主看到如此恐怖的异象，直接吓得瑟瑟发抖。 怎么没人告诉我，这个世界已经诞生了如此恐怖的绝世强者？ 就是给我一百个胆子，我也不敢在这里动手啊。 随着看着黑暗禁区主宰狼狈逃窜，全球顶尖势力皆是震惊。 “谁言人族无大帝？” 凭一身武圣异象横走都市，从此无人敢犯，一步步登临武道巅峰！ 对此，姜澜只是冷傲一笑，仙之巅 傲世间 有我姜澜便有天！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od44c2be4be46e8209a59384ccb99b153~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=jsnGa9fmJqXYiplR5FElTMILrns%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od44c2be4be46e8209a59384ccb99b153~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=WZ4UdJr0sFykWzfcU8plp1P86Io%3D",
         "url": "https://fanqienovel.com/page/7645626213058219070"
       }
     ]
@@ -322,315 +312,305 @@
     {
       "name": "都市修真",
       "trend": {
-        "new_count": 4,
-        "dropped_count": 4,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "Ai诸天：杨戬传人从九叔开始",
-          "下山退婚，七个老婆全急了",
-          "乡村典当：每日情报竟有全村黑料",
-          "午夜那些事"
+          "穿越70年，开局一本合欢宗秘籍",
+          "村花你疯了，傻子你也要？"
         ],
         "dropped_books": [
           {
-            "title": "嫂子，你好温柔",
-            "intro": "为了凑钱给嫂子换肾，叶北拨通了冰山女总裁重金求子的电话。 　　从此，开启了一段不同寻常的美妙人生，成了力压群男的猛龙。 　　冰山女总裁投怀送抱。 　　绝色嫂子体贴入微。 　　豪门千金非叶北不嫁...."
+            "title": "神医乱！",
+            "intro": "【美女+乡村+神医+致富】 傻子潦倒人人欺，获得传承变神医， 治病救人不用夸，潇洒快活打恶霸， 有朝一日凌云起，小伙子雄霸天下！"
           },
           {
-            "title": "飞升后，我成了博物馆里的标本",
-            "intro": "修真大佬周扬飞升后，发现修仙就是最大的骗局，所谓的修仙界不过展柜一偶，借着博物馆头骨标本重生，面对飞升后现代版本“仙界”都市，他以修仙逻辑强行理解一切：视手机为传讯法器，拿外卖车当傀儡兽，吞健胃消食片"
-          },
-          {
-            "title": "欢喜桃花村",
-            "intro": "【神医爽文，一爽到底，不爽你来打我】 　　为了彩礼，母亲给徐有容下媚药，欲逼她嫁给赵三炮。药效发作后，她却和江北纠缠一夜。 　　赵三炮知道后，狂揍江北。 　　水月仙子救了江北，并传授他仙法。 　　从此"
-          },
-          {
-            "title": "傻柱不傻了，全村都慌了",
-            "intro": "【多女主】【无敌】【乡村】 赵铁柱是十里八乡有名的傻子。 爹娘死后，只有收养他的赵秀兰，对他不离不弃。 村里人都笑他傻，欺负他，把他打得浑身是血，扔在雨地里等死。 可他们不知道，赵铁柱脑子里藏着一部《"
+            "title": "午夜那些事",
+            "intro": "乡村神医×修真爽文×商业暴富×无敌打脸 陈峰毕业后四处碰壁，回村发展，在一场雨夜中惨遭极品村花设计，被人扔下悬崖，意外获得八卦炉，修神功、炼灵丹、治百病、炼法器、惩恶霸，开启火眼金睛，逆天改命所向披靡"
           }
         ],
         "top_risers": [
           {
-            "title": "高武世界开美食店，武圣都馋哭了",
-            "change": "+5"
+            "title": "一年才一词条？我直接重生套娃！",
+            "change": "+7"
           },
           {
-            "title": "村夜，幸福",
-            "change": "+4"
+            "title": "乡村二驴",
+            "change": "+6"
           },
           {
-            "title": "月夜，征服",
-            "change": "+4"
+            "title": "我一个保安，你让我练合欢功？",
+            "change": "+6"
           }
         ],
         "top_fallers": [
           {
+            "title": "死党是圣女，可我是玄帝传人",
+            "change": "-8"
+          },
+          {
+            "title": "傻柱傻人有傻福",
+            "change": "-5"
+          },
+          {
             "title": "神驴下凡，携山野奇遇带全村致富",
-            "change": "-6"
-          },
-          {
-            "title": "开局解锁武圣特效，谁敢欺负我？",
-            "change": "-6"
-          },
-          {
-            "title": "乡村二驴",
             "change": "-4"
           }
         ],
         "reads_growth": [
           {
             "title": "暑假失踪，开学归来成元婴老祖！",
-            "growth": "+9000"
-          },
-          {
-            "title": "离婚后，我用双修功法修仙",
-            "growth": "+5000"
+            "growth": "+8000"
           },
           {
             "title": "十八岁的太爷爷，他来自修仙界？",
-            "growth": "+4000"
+            "growth": "+7000"
+          },
+          {
+            "title": "老驴，尝鲜",
+            "growth": "+5000"
           }
         ],
-        "summary": "新增4本上榜；4本掉出（《嫂子，你好温柔》、《飞升后，我成了博物馆里的标本》、《欢喜桃花村》、《傻柱不傻了，全村都慌了》）；《高武世界开美食店，武圣都馋哭了》排名上升+5位；《暑假失踪，开学归来成元婴老祖！》阅读量+9000。"
+        "summary": "新增2本上榜；2本掉出（《神医乱！》、《午夜那些事》）；《一年才一词条？我直接重生套娃！》排名上升+7位；《暑假失踪，开学归来成元婴老祖！》阅读量+8000。"
       },
       "books": [
         {
           "title": "路遇黄皮子讨封，封它当玉皇大帝",
           "author": "新夜z",
-          "reads": "36.3万",
+          "reads": "35.3万",
           "intro": "【紫袍天师】【道祖命格】【高武横推】【道法无双】 穿越平行世界的张楚玉，成了龙虎山紫袍天师。 暑假，某夜。 就在张楚玉准备直播夜钓探险的时候！ 镜头当中突然闯入了一只成精的黄皮子，张口就问他，自己像仙还是像神！？ “叮，道祖系统开启！由于宿主首次绑定系统，奖励神级选项一次。” 　　 “一：当面拒绝黄皮子讨封请求，并让它死了这条心。奖励：【讨封终结者称号】免疫任何妖物的讨封负面影响【黄皮子家族报复】” 　　 “二：牛鬼蛇神不堪一击，抓着它前往警局报案，让它体验一下牢狱之灾，奖励：【擒妖手（满级）可擒拿任何小妖】” 　　“三：既然找道爷封神，那道爷成全你，以天师之名，开坛上表，敕告九天，封它当九霄玉皇大帝！有事你特么找玉帝刚！奖励：【金光神咒】【百日精纯元炁修为】【道祖命格】” 　　 张楚玉看着这几个选项，默默穿上紫衣道袍。 　 “一纸天书，上奏天庭，下表地府...” .....",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o458908feebad46581e3e2dba999d5e4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=iHVSXlpGFUR74h%2F7%2BPDD8fqjhDg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o458908feebad46581e3e2dba999d5e4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=5lcovACsrQz3Uh4DnXtSfPmohjE%3D",
           "url": "https://fanqienovel.com/page/7654881714384145470"
-        },
-        {
-          "title": "灵气复苏？前世女帝老婆也复苏了",
-          "author": "黑白之月",
-          "reads": "14.9万",
-          "intro": "【爽文+无敌+杀伐果断+多红颜+伪模拟器】 现代灵气复苏，秦子君得《万世仙书》，只要历经万世红尘，就可成‘万世仙尊’，长生久视，万劫不磨！ 历经‘9999世’，只差最后一世就可修成正果，秦子君回到现代，作为转世者的他只想安安稳稳渡过这一世。 《万世仙书》有一能力，只要写出那一世的故事，就可得到那一世的神通，秦子君发表了多篇大作—— 他曾助大燕公主登临帝位，最后挥手而去，让未来仙朝女帝寻他万年。 他曾为天地立心，为生民立命，夺天下气运助月神望舒重归神位，让神女等他一生。 他曾欺骗羲和感情，自毁道途助她成道，让这位太阳女神悔恨终身。 他曾自诩为‘天’，成东皇太一，横压万世，独断万古，天上天下莫可与敌。 秦子君的转世经历一出，世人震动！ 只是秦子君没想到，除了他以外，还有众多诸天大能也跟着转世，他的那些红颜知己们，全都活出了第二世！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa144a7ac1c8fdaf5d5051d16fcbb3add~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=G0iBJYPdTYDtCcfmffpc1qRUnOQ%3D",
-          "url": "https://fanqienovel.com/page/7651384067501329433"
         },
         {
           "title": "婚礼被妹妹直播，天师身份曝光了",
           "author": "阿思儿",
-          "reads": "15.5万",
+          "reads": "15万",
           "intro": "【直播曝光】+【天师大婚】+【诡异入侵】+【误闯天家】 沈家千金大婚，全网轰动，未婚夫竟是个无人知晓的山里人。 亲妹妹都不敢信：\"我哥？高中没念完那个？\" 直到婚礼直播那天，聘礼一重一重送到！ 【第一重：三天门金箓婚书，三百年来第一封】 【第二重：七星法灯开道，长明千年不灭】 【第三重：太清宫十八代天师联名贺帖】 【第四重：……全网瘫痪，信号中断】 陆家公子：\"我们排队都见不到沈念清，他凭什么？\" 沈家姑：\"山里人能拿什么聘礼？三斤核桃？\" 道门首座真人：\"天师发宏愿娶妻，上一次，是三百年前。\" 全网评论区炸了：\"等，天师是什么级别？有人能解释一下吗？\" 没人知道的是，大婚当日，三界诡异蠢动，百鬼夜行。 太清宫千年法灯齐齐颤动。 陈时渡端坐法座之上，道袍无风自动，抬手间，天地肃杀。 \"大婚之日，诸邪退避。\" \"若有不退者……\" \"斩。\" 沈念清靠在他肩上，笑意盈盈：\"我嫁的人，能护住这天下。\"",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od4c8c8b64a7b7652e997379333ab5026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=ZW5JneX%2F2K5OK4A7XEjO8LUKupA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od4c8c8b64a7b7652e997379333ab5026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=0WIPASz9C7Zb3um16%2FxcbP7txlw%3D",
           "url": "https://fanqienovel.com/page/7652381813955906585"
+        },
+        {
+          "title": "灵气复苏？前世女帝老婆也复苏了",
+          "author": "黑白之月",
+          "reads": "13.6万",
+          "intro": "【爽文+无敌+杀伐果断+多红颜+伪模拟器】 现代灵气复苏，秦子君得《万世仙书》，只要历经万世红尘，就可成‘万世仙尊’，长生久视，万劫不磨！ 历经‘9999世’，只差最后一世就可修成正果，秦子君回到现代，作为转世者的他只想安安稳稳渡过这一世。 《万世仙书》有一能力，只要写出那一世的故事，就可得到那一世的神通，秦子君发表了多篇大作—— 他曾助大燕公主登临帝位，最后挥手而去，让未来仙朝女帝寻他万年。 他曾为天地立心，为生民立命，夺天下气运助月神望舒重归神位，让神女等他一生。 他曾欺骗羲和感情，自毁道途助她成道，让这位太阳女神悔恨终身。 他曾自诩为‘天’，成东皇太一，横压万世，独断万古，天上天下莫可与敌。 秦子君的转世经历一出，世人震动！ 只是秦子君没想到，除了他以外，还有众多诸天大能也跟着转世，他的那些红颜知己们，全都活出了第二世！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa144a7ac1c8fdaf5d5051d16fcbb3add~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=hif0V%2B%2FsP24GBMkeOtRU8IrA%2BPg%3D",
+          "url": "https://fanqienovel.com/page/7651384067501329433"
         },
         {
           "title": "我在短剧世界吃瓜",
           "author": "迷途知返小沙弥",
-          "reads": "9.4万",
+          "reads": "8.7万",
           "intro": "（主角无敌，不憋屈，里面有大量短剧狗血剧情，多女，不喜勿点） 穿越到修仙世界，修行八千年的沈天赐，飞升到了一个短剧大融合世界。 霸道总裁有个龙王赘婿，等待白月光回归的大姐。 深爱自大狂妄霸道总裁，甘愿默默付出的二姐。 暗恋黑客大神，天才计算机少女小妹。 扭捏造作绿茶浓度爆表的假少爷弟弟。 学习天赋拉满，成为高考状元的真少爷弟弟。 年过古稀，还想着修仙的不正经爷爷。 沈天赐一边大口吃瓜，一边拯救这些不太正常的家人。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of87698569872b84e3e4866acf4ccc0e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=mbJuXXOmsraR5qj9m6ztOILUzhQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of87698569872b84e3e4866acf4ccc0e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=XlfZx9Wg5yyNk6SsBNbC4Iapf9I%3D",
           "url": "https://fanqienovel.com/page/7635183918467009561"
         },
         {
           "title": "大一赶尸去报到，749局长哭了",
           "author": "河狸爱洗澡",
-          "reads": "7.8万",
+          "reads": "7.4万",
           "intro": "【都市+赶尸+无厘头+749局+搞笑惊悚】 湘西赶尸一脉传人张维，大一暑假被老爹赶下山，任务是将一位客死异乡的“客户”送回老家落叶归根。 为了省路费，张维直接把贴了符的“客户”当成共享单车骑！ 路遇黄皮子讨封：“你看我像人，还是像神？” 张维反手一巴掌抽过去：“我看你像个备胎！懂不懂规矩？挡老子路了知道吗？这客户撞坏了你赔得起吗？！” 黄鼠狼懵了，749局惊了。 事后，张之维被强行招入749局。 “报告局长，张维正骑着尸体在高速上飙车，时速一百二！” “不好！他逼着贞子给他推车，因为没油了！” 749局众人：“求你了，别把基地搞得像义庄一样全是棺材！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eeba5cbe9719f4fe8f0d6b36edfbe76~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=L1PVP8KiKj6upikHkSn1oIh25Fo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eeba5cbe9719f4fe8f0d6b36edfbe76~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=OhMiSoGYA63M0HVCrp7jPrC0%2F7I%3D",
           "url": "https://fanqienovel.com/page/7654141974349351998"
         },
         {
           "title": "老驴，尝鲜",
           "author": "果冻h",
-          "reads": "8.2万",
+          "reads": "8.7万",
           "intro": "年过六旬、孤寡、绝症、众叛亲离，林山以为自己终将潦草落幕。 直到漂亮的女房客投怀送抱，命运悄然转折。 失传修真传承现世，老朽身躯脱胎换骨，绝症不治而愈。 谁说暮年只能等死？ 且看白发老者，于现代都市修行悟道，横扫困顿，逍遥世间！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb0315993fc5b67830013691e1bf7bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=hBDmhH%2BCSv9Ehjf0OQiYVF%2BUFUQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb0315993fc5b67830013691e1bf7bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=CiXrgdl%2FEUUk8385keVrhjZY2Y8%3D",
           "url": "https://fanqienovel.com/page/7632565390865878041"
-        },
-        {
-          "title": "村夜，幸福",
-          "author": "三人二小",
-          "reads": "6.4万",
-          "intro": "乡村的夜，是别有特色的，是让人激动的。 桃花村在方小俊回来的那一刻，发生了天翻覆地的变化。 他利用自己的能力，让村里的女人富裕起来，让她们的生活幸福起来。 不过，最重要的是，他要带领大家一起致富。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c700be63e35e8cd5aad468403dc684f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=eyFF3piR9MnIfmr2s7yDOOSPgsY%3D",
-          "url": "https://fanqienovel.com/page/7654416305524591640"
         },
         {
           "title": "暑假失踪，开学归来成元婴老祖！",
           "author": "做梦都想开大G",
-          "reads": "7.9万",
+          "reads": "8.7万",
           "intro": "【爽文+ 无系统 + 无敌+传道反哺】 拿到大学录取通知书的那天，陈默离奇失踪。 整整两个月杳无音信，所有人都以为他被骗去了缅北。 没人知道，地球上的两个月，他却被卷入残酷的修仙界，足足杀伐了五百年！ 五百年的尸山血海，他从一介凡人横推万古，登顶元婴大道，成为万界战栗的“沧溟仙尊”！ 如今归来，正好赶上了大一开学报到。 面对地球灵气枯竭的绝境，陈默丝毫不慌，反手祭出逆天功法《造化星火决》！ 自己修炼太慢？ 那就让别人替我修！ 只要赐下“道种”，别人苦修得来的修为、造化，便会千倍万倍自动反哺到他身上！ 于是，整个都市的画风变了。 清冷校花、财阀大佬、神医圣手纷纷沦为他的“修炼工具人”！ 不可一世的财阀大佬：“陈大师，只要你愿意收我为徒，千亿家产皆是你的！” 清冷校花：“求陈默哥哥赐下道种，人家愿意永远给你暖被窝嘛！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4d032e387b2f2c83b3cd1fd280f26a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=YbZ7RFF9p9lq%2FZGl97XIg2NaaaY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of4d032e387b2f2c83b3cd1fd280f26a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=DeC8%2BhaBBu84D5QX35oeHMEbK7o%3D",
           "url": "https://fanqienovel.com/page/7634571778957790232"
+        },
+        {
+          "title": "村夜，幸福",
+          "author": "三人二小",
+          "reads": "6.6万",
+          "intro": "乡村的夜，是别有特色的，是让人激动的。 桃花村在方小俊回来的那一刻，发生了天翻覆地的变化。 他利用自己的能力，让村里的女人富裕起来，让她们的生活幸福起来。 不过，最重要的是，他要带领大家一起致富。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c700be63e35e8cd5aad468403dc684f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=su1Hb1%2FFMHNHiNH%2FokgxuEpoSZc%3D",
+          "url": "https://fanqienovel.com/page/7654416305524591640"
         },
         {
           "title": "灵气复苏，两天成为红尘仙",
           "author": "青山绿改",
-          "reads": "5.7万",
+          "reads": "5.2万",
           "intro": "【慢节奏】【日常】【绝对无敌】【剧情流】 灵气复苏，大争之世开启。 妖魔祸乱神州，邪道横行，秩序崩塌，各个时代的天骄转世而来，风华绝代。 文圣执笔镇妖，兵仙横刀守疆，道祖法御乾坤，女帝凤定天下…… 世人皆追天骄，仰其荣光，奉其为救世支柱。 却不知，万丈封神台，万古天骄路，全都绕不过一位少年郎。 五年沉睡，一场庄生蝶梦。 当他苏醒归来， 世人拜天骄，天骄拜先生！ 陈玄：诸位，好久不见，说好顶峰相见，你们怎么又在山脚？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd6b6e6edcd8392790d5d858b2ac8ba3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=s2EJ5%2BewPrARhD0fE8u6%2Btf9p4Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd6b6e6edcd8392790d5d858b2ac8ba3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=r9Sqivgr%2BJSgViVSkob4TibiImg%3D",
           "url": "https://fanqienovel.com/page/7648653733970070553"
         },
         {
           "title": "十八岁的太爷爷，他来自修仙界？",
           "author": "西孑",
-          "reads": "5.5万",
+          "reads": "6.2万",
           "intro": "苏阳为了突破至高境界，修为炼气境9999层的他重返地球。 当年一别，地球早已经是物是人非！ 大哥小妹早已去世，留下了一大群苏家后辈。 因为服用了回颜丹，苏阳容颜看起来就只有十八岁。 认亲后，老苏家这下可就热闹了 调皮捣蛋的小萝莉，惹是生非的小黄毛… 看苏老魔这个年轻的太爷爷，如何重塑苏家荣誉…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbebdb646f9c01b396b525860c11c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722064&x-signature=nx3yQ6cEYWOt%2F4ro%2BIukOi%2BLGxU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbebdb646f9c01b396b525860c11c65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806974&x-signature=OrkVi8a9ZlDXBtJTH2qDGExDNH0%3D",
           "url": "https://fanqienovel.com/page/7652760162108705816"
         },
         {
-          "title": "盗墓：开局吞千年尸王，邪修吓疯",
-          "author": "墨冰仙1992",
-          "reads": "4万",
-          "intro": "王霄穿越妖魔横行的民国乱世，成了地主老财，腰缠万贯却屡受邪崇和山贼威胁，好在签到系统在手，他炼巫术，豢兽兵，吞噬万物强化己身。当资源匮乏，古墓门开启，他毅然下墓，誓以万妖本源，铸就不朽魔身！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a881b8bebe0327d67bbab72e53df58a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=68aGlRyJ9763jxDrdD5%2BaiNQqzA%3D",
-          "url": "https://fanqienovel.com/page/7658619439402716222"
+          "title": "乡村二驴",
+          "author": "一个好人丫",
+          "reads": "3.2万",
+          "intro": "他叫吕梁，村里人都叫他二驴。 五年前他是全村第一个大学生，风光无限。 五年后他是全村最大的笑话——一个被人打傻的废物，靠着村民接济过活。 傻归傻，村里的女人们嘴上嫌弃，心里惦记。 于是，傻子醒了。 千年功法在身，二驴不再是二驴。 他要让害他的人血债血偿，也要让那些对他好的女人，都过上好日子。 乡村土路，杨柳树荫，家长里短，人情世故。 二驴的快活日子，才刚刚开始。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofdff48b82a0551449b9dd682674107fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Hy23c9dR1aqa%2BHZpTllAcqo7Css%3D",
+          "url": "https://fanqienovel.com/page/7647442709082278936"
         },
         {
           "title": "月夜，征服",
           "author": "长风逐浪",
-          "reads": "4.5万",
+          "reads": "4.4万",
           "intro": "某个自山村穷小子林凡，因一次意外觉醒了上古医道传承，从此医术通天，命运逆转。 平日里，他是不起眼的小村医，可谁能想 ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9df56b1ca35a5aa8d0d79afed23ddf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=Klh18i%2B8nhBSVczAKo1%2FrZyJVPk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8c9df56b1ca35a5aa8d0d79afed23ddf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=9juwcxl%2BB%2Fge0Dn3C5Ci%2BL8IEPs%3D",
           "url": "https://fanqienovel.com/page/7644158649341856793"
-        },
-        {
-          "title": "死党是圣女，可我是玄帝传人",
-          "author": "清茶伴余生",
-          "reads": "3.3万",
-          "intro": "我是当代玄帝，兼职人间界主，但寿元将尽。 我找了个传人陈洛，结果他转头悟了道，长生不老了。 我：……6。 现在他的死党是太清圣女，天天在装男生。 我蹲在云上嗑瓜子，看他俩一个努力赚灵石，一个努力装男生。 我吐掉瓜子壳，笑出鹅叫：“这年轻人，真会玩。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c40bd2273fa4a9eff2792f745342e00~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=q9RtKtXnVfUsVV5b2hVJyykWJ%2B4%3D",
-          "url": "https://fanqienovel.com/page/7630681037156125758"
         },
         {
           "title": "离婚后，我用双修功法修仙",
           "author": "夜歌紫",
-          "reads": "5.3万",
+          "reads": "5万",
           "intro": "杨赢道将奸夫乱刀砍死后锒铛入狱，被判五年牢狱生活，狱中结识盗墓贼，意外获得双修功法，阳极霸体激活《阴阳帝经》，从此海阔天空。 【阳极霸体+多女主+杀伐果断+无限爽+医术+风水】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6ea1e2efcfd6a4645113d4504f3780~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=eMKc74%2FZ8YY1xd5K4aLbPVlsXfw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6ea1e2efcfd6a4645113d4504f3780~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=QHqm9M9KiPe3cSuv9%2BI6g8Rsk8c%3D",
           "url": "https://fanqienovel.com/page/7639730630737005592"
+        },
+        {
+          "title": "盗墓：开局吞千年尸王，邪修吓疯",
+          "author": "墨冰仙1992",
+          "reads": "3.7万",
+          "intro": "王霄穿越妖魔横行的民国乱世，成了地主老财，腰缠万贯却屡受邪崇和山贼威胁，好在签到系统在手，他炼巫术，豢兽兵，吞噬万物强化己身。当资源匮乏，古墓门开启，他毅然下墓，誓以万妖本源，铸就不朽魔身！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a881b8bebe0327d67bbab72e53df58a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=5FV3tb9smQnF7ORKf2BUw%2FqHGlQ%3D",
+          "url": "https://fanqienovel.com/page/7658619439402716222"
         },
         {
           "title": "乡村神医，张凡的妖孽生活",
           "author": "贾冷",
           "reads": "4.1万",
           "intro": "【乡村】+【种地】+【捕鱼】+【爽文】+【无敌】 穷困潦倒，债台高筑的张凡，又被村花退婚。 他意外获得了通天传承，从此过上了人人羡慕的美好生活。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0796b64f4a694dd602846ed64b7acc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=kok3SYmAx5Z09xWYM5zz3i6M4IY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0796b64f4a694dd602846ed64b7acc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Z2nq4g5jGA2nK0E%2FzUYPXTImGAs%3D",
           "url": "https://fanqienovel.com/page/7646215936516574270"
-        },
-        {
-          "title": "神驴下凡，携山野奇遇带全村致富",
-          "author": "红桃9",
-          "reads": "3.5万",
-          "intro": "山村少年偶遇下凡神驴，得天赐山野机缘。 在众多美女姐姐、老板的帮助带领下开荒兴产，盘活乡野宝藏，帮全村脱贫致富，谱写山村振兴传奇。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o94a694e264a7cf94a6f3a1594b3b261f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=A2Bb0pmwJ2%2BE1hJK9pdapqwyC8E%3D",
-          "url": "https://fanqienovel.com/page/7642941012855229465"
-        },
-        {
-          "title": "乡村二驴",
-          "author": "一个好人丫",
-          "reads": "3.5万",
-          "intro": "他叫吕梁，村里人都叫他二驴。 五年前他是全村第一个大学生，风光无限。 五年后他是全村最大的笑话——一个被人打傻的废物，靠着村民接济过活。 傻归傻，村里的女人们嘴上嫌弃，心里惦记。 于是，傻子醒了。 千年功法在身，二驴不再是二驴。 他要让害他的人血债血偿，也要让那些对他好的女人，都过上好日子。 乡村土路，杨柳树荫，家长里短，人情世故。 二驴的快活日子，才刚刚开始。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofdff48b82a0551449b9dd682674107fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=e%2BG4CoyDC%2FRQPi7u4OIM8vdPXf8%3D",
-          "url": "https://fanqienovel.com/page/7647442709082278936"
-        },
-        {
-          "title": "入夜，诱惑",
-          "author": "鱼不虚",
-          "reads": "3.8万",
-          "intro": "乡村神医x都市修仙x无敌爽文x杀伐果断x种田致富 王大炮被打傻后丢回村子，意外获得无敌传承！从此逆天改命，修神功、驱恶霸、治百病、搞经济，无所不能，带领村民们发家致富，走上人生巅峰！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9511e4386ad9b0189a3aadf368f9eb8b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=KTcqb0fwOn0II6RazJNzvTRz%2BCI%3D",
-          "url": "https://fanqienovel.com/page/7641288709958028312"
-        },
-        {
-          "title": "傻柱傻人有傻福",
-          "author": "一粒油",
-          "reads": "2.8万",
-          "intro": "【百位女主不重样】+【一边种田一边修仙】 傻子陈大柱意外觉醒体内仙苗，他恢复正常并获得绝世医术的同时，一只脚踏入了修仙之门。 从此之后，陈大柱每天只想一边种地发家致富，一边修炼找到爷爷的下落，却没想到美女总裁、温柔记者、俏皮游戏主播、还有村里那些留守的女人们总是打他的主意。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb1b24ad4327400497dfa0bf67eebacd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=sdqsI1vohMzqHyWgZrCM5qso%2FsM%3D",
-          "url": "https://fanqienovel.com/page/7647532779919379518"
-        },
-        {
-          "title": "断网后我连通了魔法界",
-          "author": "飘洒清风",
-          "reads": "3.2万",
-          "intro": "【伪幕后】【伪群像】【创法者】【改变世界】 裸辞回家第一天，流星砸穿窗户，砸中了林泽的电脑。 桌面上多出个删不掉的论坛，拔了网线照样刷，里面全是异界法师战士吵嘴。 林泽人傻了。 合着给我个魔法窗口，这世界连根魔力毛都没有？ 古法没用，法师当不成，被逼得先练起了蛮子的斗气。 练着练着他玩出花了。 把地球经脉法门揉进斗气，修炼速度直接翻三倍，肉身反哺神魂，精神力涨得比法师还快。 卖本《异魔经》，异界战宗抢着送钱，魔币、魔兽精血、黄金摆件，跨世界包邮到家。 再往后，他把斗气与魔法熔为一炉，创出独一份的修仙大道。 以众生精神为魔力，化虚幻为现实，册封满天神佛，开启封神纪元。 全世界都在找超凡源头，只有林泽蹲在出租屋里，默默给新神改人设。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f6681508604412cae9e3e1962ff3aa0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722067&x-signature=s6UF6xKx7ZJDi%2FycsIj%2BBA62uzQ%3D",
-          "url": "https://fanqienovel.com/page/7651981096426425368"
-        },
-        {
-          "title": "判我死刑，复活后的我杀疯了",
-          "author": "爱吃早餐劵的纪北",
-          "reads": "3.7万",
-          "intro": "主角：顾尘心 【都市修真】+【都市】+【爽文】+【重生复活】+【无敌】+【诸天万界】+【升级流】 顾尘心，一个被冤枉后判处死刑的孤儿 当他从刑场死而复生，当他寻回前世记忆 终裁庭的判官，斩了。 陷害他的周家，灭了。 维安局的大楼，一掌拍进地底。 那些曾经高高在上、视他为蝼蚁的人，此刻跪在他面前瑟瑟发抖。 “我的规矩，就是规矩。” 当斩天刀归位，当他再次踏足星空 一人一把斩天刀，又会重新给这个宇宙带来怎样的风波…… 请移步正文",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o48fd3b78b45790d1138a2a70432360ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=6OJOSbP%2FuzZlcc39On7so0Vl0xQ%3D",
-          "url": "https://fanqienovel.com/page/7642575123186191385"
         },
         {
           "title": "我一个保安，你让我练合欢功？",
           "author": "风中轻羽",
-          "reads": "4万",
+          "reads": "4.2万",
           "intro": "【都市修仙+美女如云+暴爽无敌+医武双绝】 秦旭只是个保安，被女友劈腿，被黑老大欺负…… 突然有一天，他觉醒了上古传承，阴阳合欢功！ 从此以后，秦旭走上人生巅峰！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae1d4c7f9b98e470c07715dbabe2d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=p3YvzW4EBhKv%2B4xtSa7VD0aFjGs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oae1d4c7f9b98e470c07715dbabe2d836~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=Q4q6gF%2F6Uim2Lpl3z6RRcgSB4oE%3D",
           "url": "https://fanqienovel.com/page/7644157491525192766"
-        },
-        {
-          "title": "神医乱！",
-          "author": "好鱼上水",
-          "reads": "3.3万",
-          "intro": "【美女+乡村+神医+致富】 傻子潦倒人人欺，获得传承变神医， 治病救人不用夸，潇洒快活打恶霸， 有朝一日凌云起，小伙子雄霸天下！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945dccf3c61ce916e2471996d9c7060~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=D9oBNb4FhVluCqh0tbqa6N%2B6IRs%3D",
-          "url": "https://fanqienovel.com/page/7568814050193198105"
         },
         {
           "title": "一年才一词条？我直接重生套娃！",
           "author": "骑猪去漂流",
-          "reads": "4.1万",
+          "reads": "4.4万",
           "intro": "【词条+死后重开+快节奏+日常向】 穿越异世，李昊获得每年抽一次的【词条】外挂，可惜爆率低得吓人，二十年全是没啥用的白色词条。 所幸在二十一岁那年，竟然抽出了骇人听闻的神话品质词条：往生簿！ 装备【往生簿】，死后即可重开一世，并且继承上一世所有的词条、修为、武技等！ 每一世，李昊都拼尽全力，每活一年就可以获得新的词条！ “哈哈哈，外挂让我重开，活着终将无敌！词条来！” “我见过很多天才，但他们都会叫我大佬！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o975668589ba6489e56e4afd42b78c90e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=CCHX%2FwZddylqHdDbbcNLdMxLS3E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o975668589ba6489e56e4afd42b78c90e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=N69%2Fo4vPSv1dTirOS2iQkubUDNA%3D",
           "url": "https://fanqienovel.com/page/7646747914882010136"
+        },
+        {
+          "title": "判我死刑，复活后的我杀疯了",
+          "author": "爱吃早餐劵的纪北",
+          "reads": "4.1万",
+          "intro": "主角：顾尘心 【都市修真】+【都市】+【爽文】+【重生复活】+【无敌】+【诸天万界】+【升级流】 顾尘心，一个被冤枉后判处死刑的孤儿 当他从刑场死而复生，当他寻回前世记忆 终裁庭的判官，斩了。 陷害他的周家，灭了。 维安局的大楼，一掌拍进地底。 那些曾经高高在上、视他为蝼蚁的人，此刻跪在他面前瑟瑟发抖。 “我的规矩，就是规矩。” 当斩天刀归位，当他再次踏足星空 一人一把斩天刀，又会重新给这个宇宙带来怎样的风波…… 请移步正文",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o48fd3b78b45790d1138a2a70432360ca~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=qVZBgRsgnSdOB%2B2TqSLhHRGtx2k%3D",
+          "url": "https://fanqienovel.com/page/7642575123186191385"
+        },
+        {
+          "title": "入夜，诱惑",
+          "author": "鱼不虚",
+          "reads": "4万",
+          "intro": "乡村神医x都市修仙x无敌爽文x杀伐果断x种田致富 王大炮被打傻后丢回村子，意外获得无敌传承！从此逆天改命，修神功、驱恶霸、治百病、搞经济，无所不能，带领村民们发家致富，走上人生巅峰！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0254bb3588f19408b03fd9889000a2d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=MoM8MlYLUtVAi90%2BIzEHoM8WKb8%3D",
+          "url": "https://fanqienovel.com/page/7641288709958028312"
+        },
+        {
+          "title": "神驴下凡，携山野奇遇带全村致富",
+          "author": "红桃9",
+          "reads": "3.6万",
+          "intro": "山村少年偶遇下凡神驴，得天赐山野机缘。 在众多美女姐姐、老板的帮助带领下开荒兴产，盘活乡野宝藏，帮全村脱贫致富，谱写山村振兴传奇。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o94a694e264a7cf94a6f3a1594b3b261f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806978&x-signature=ddavvDU2nrOZo5uL9poWVnGvUPE%3D",
+          "url": "https://fanqienovel.com/page/7642941012855229465"
+        },
+        {
+          "title": "死党是圣女，可我是玄帝传人",
+          "author": "清茶伴余生",
+          "reads": "3.3万",
+          "intro": "我是当代玄帝，兼职人间界主，但寿元将尽。 我找了个传人陈洛，结果他转头悟了道，长生不老了。 我：……6。 现在他的死党是太清圣女，天天在装男生。 我蹲在云上嗑瓜子，看他俩一个努力赚灵石，一个努力装男生。 我吐掉瓜子壳，笑出鹅叫：“这年轻人，真会玩。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c40bd2273fa4a9eff2792f745342e00~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=thjEjnAtXwX8%2FAwkjqLsvCvblds%3D",
+          "url": "https://fanqienovel.com/page/7630681037156125758"
+        },
+        {
+          "title": "断网后我连通了魔法界",
+          "author": "飘洒清风",
+          "reads": "3.1万",
+          "intro": "【伪幕后】【伪群像】【创法者】【改变世界】 裸辞回家第一天，流星砸穿窗户，砸中了林泽的电脑。 桌面上多出个删不掉的论坛，拔了网线照样刷，里面全是异界法师战士吵嘴。 林泽人傻了。 合着给我个魔法窗口，这世界连根魔力毛都没有？ 古法没用，法师当不成，被逼得先练起了蛮子的斗气。 练着练着他玩出花了。 把地球经脉法门揉进斗气，修炼速度直接翻三倍，肉身反哺神魂，精神力涨得比法师还快。 卖本《异魔经》，异界战宗抢着送钱，魔币、魔兽精血、黄金摆件，跨世界包邮到家。 再往后，他把斗气与魔法熔为一炉，创出独一份的修仙大道。 以众生精神为魔力，化虚幻为现实，册封满天神佛，开启封神纪元。 全世界都在找超凡源头，只有林泽蹲在出租屋里，默默给新神改人设。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f6681508604412cae9e3e1962ff3aa0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=VHcOj9XPCHsrC1Ko9dvc4bzOSoM%3D",
+          "url": "https://fanqienovel.com/page/7651981096426425368"
         },
         {
           "title": "高武世界开美食店，武圣都馋哭了",
           "author": "泉水泡茶",
-          "reads": "3.3万",
+          "reads": "3.5万",
           "intro": "陈安穿越到一个武力为尊的世界，这个世界的主流为丹药，饿了吃一颗饱腹丹，要突破了吃一颗破镜丹，受伤了，吃一颗疗伤丹。 但他却觉醒的是美食系统。 自此，一个地角不好，位置不佳，卖的菜品还贼贵的美食店，成为了众人口中的传奇。 一碗蛋炒饭108，却能帮人突破境界，一碗白粥99，能滋润身心，舒筋活血。 还有麻辣烤鱼，豆腐脑，红烧肉，佛跳墙... 每一道美食，都能引起众人的欢呼，每一道美食都是众人追捧的对象。 普通凡人，将其当做心中圣地；武道高手，将其当做每日打卡食堂；高级猎人，将其当做战前补给。 一家美食小店，搅动高武风云，成就至高传奇！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0368b721fe4ae1acf0a82a1b5286479~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=sd43I8enhSbswtnES%2BuqLBL5r%2FY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0368b721fe4ae1acf0a82a1b5286479~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=9%2FK%2BqINf26ERN5eYzvkOng7YBlk%3D",
           "url": "https://fanqienovel.com/page/7656690011470826558"
         },
         {
-          "title": "Ai诸天：杨戬传人从九叔开始",
-          "author": "怪R人",
-          "reads": "3万",
-          "intro": "陈槊冲电玩Ai时，手机爆炸，穿越到了九叔世界一个小乞丐身上。 陈槊醒来后，发现自己所处的位置在二郎神杨戬的庙宇中。 陈槊跟二郎神的神像对视，神像眉心射出来了知道白光，进入陈槊的脑海里。 原来这具身体是十世善人，本该上天为官，却被冒名顶替了，神魂还被丢到了其他世界，附在了一个小乞丐。 杨戬作为司法天神，刚好碰见了去上任的官员，见他一个凡人，没什么功德却能为官，一查才知道。 作为补偿，杨戬收陈槊为记名弟子，传他天眼、《道德经》、《八九玄功》改良版的《九转金身诀》，要是陈槊能修炼成仙，就收他为徒。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119af8d72ddc20a9d24eddaa25a9a129~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=%2F1CJJOvSjy%2FsgiK20wCOelajBfc%3D",
-          "url": "https://fanqienovel.com/page/7647439310525828121"
+          "title": "傻柱傻人有傻福",
+          "author": "一粒油",
+          "reads": "2.7万",
+          "intro": "【百位女主不重样】+【一边种田一边修仙】 傻子陈大柱意外觉醒体内仙苗，他恢复正常并获得绝世医术的同时，一只脚踏入了修仙之门。 从此之后，陈大柱每天只想一边种地发家致富，一边修炼找到爷爷的下落，却没想到美女总裁、温柔记者、俏皮游戏主播、还有村里那些留守的女人们总是打他的主意。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb1b24ad4327400497dfa0bf67eebacd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=4HrBwzaeK4okMph3RYgLLv6XVSc%3D",
+          "url": "https://fanqienovel.com/page/7647532779919379518"
         },
         {
           "title": "下山退婚，七个老婆全急了",
           "author": "天男星",
-          "reads": "2.9万",
+          "reads": "2.8万",
           "intro": "十八年前，燕京陆家惨遭灭门，五岁的陆尘被天机老道带上昆仑山。 十八年后，陆尘携七份婚书，以修真满级之姿强势下山！ 刚到江州，江南战区第一女战神便带兵堵门，将泛黄的婚书甩在他脚下：“我乃大夏战神，你一个山野村夫，也配娶我？签字，退婚！” 陆尘笑了，连眼皮都没抬，当众将婚书撕得粉碎。 “巧了，我也没兴趣娶你。从现在起，是我陆尘不要你。你，被我休了！” 女战神勃然大怒，化境巅峰修为全开，誓要将这狂妄小徒镇压！ 然而下一秒，陆尘只是轻描淡写地抬起一只手，便将高高在上的女战神如拎小鸡般掀翻在地。 “半步宗师？化境巅峰？在我眼里，连给我挠痒都不配！” 这一天，江州震怖。 这一天，那个穿着洗发白休闲服的青年，开启了他横推世间一切敌的无敌之路！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb2a9af44c013500ac4a52d37355d502~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=sx4SKK4GUnwwxrA22aUIFBw%2BzP4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb2a9af44c013500ac4a52d37355d502~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=AJjOuuC%2BCb8p2AJuW88%2F4hyEE7k%3D",
           "url": "https://fanqienovel.com/page/7655228890679348249"
         },
         {
           "title": "乡村典当：每日情报竟有全村黑料",
           "author": "渣渣",
-          "reads": "3.1万",
+          "reads": "3.2万",
           "intro": "（乡村+神医+种田+商业+多女主） 姜离被前女友林薇怂恿，在村里开了一家典当铺。 本以为血本无归，却意外得到一个可以刷新情报、修炼自身的玄天宝镜。 【林薇和你开店时候动了手脚，证据被丢在村口柴火垛，如果你能拿到证据，或许会得到一些补偿】 【十天后山洪封村，静香嫂子想要换取一袋面粉】 ...... 姜离惊奇的发现，随着在典当行交易老物件的增多，自己居然无敌了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc341bfd137c2e5fd127fa12aada731ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=xwHc6EbW%2FfKRN5mCgqKYVmaDgBU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc341bfd137c2e5fd127fa12aada731ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=zsk48LseL10xFrKjYaWjbHezoKk%3D",
           "url": "https://fanqienovel.com/page/7656023842191592472"
         },
         {
-          "title": "午夜那些事",
-          "author": "墨彦竹",
-          "reads": "1.7万",
-          "intro": "乡村神医×修真爽文×商业暴富×无敌打脸 陈峰毕业后四处碰壁，回村发展，在一场雨夜中惨遭极品村花设计，被人扔下悬崖，意外获得八卦炉，修神功、炼灵丹、治百病、炼法器、惩恶霸，开启火眼金睛，逆天改命所向披靡，带领全村种田致富，打造属于自己的商业帝国！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc58b7d208bb79f864d785e46409f4be0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=W3BgKwuLhctNIQ5%2BugS3sBxM828%3D",
-          "url": "https://fanqienovel.com/page/7647730052452322366"
+          "title": "Ai诸天：杨戬传人从九叔开始",
+          "author": "怪R人",
+          "reads": "3.1万",
+          "intro": "陈槊冲电玩Ai时，手机爆炸，穿越到了九叔世界一个小乞丐身上。 陈槊醒来后，发现自己所处的位置在二郎神杨戬的庙宇中。 陈槊跟二郎神的神像对视，神像眉心射出来了知道白光，进入陈槊的脑海里。 原来这具身体是十世善人，本该上天为官，却被冒名顶替了，神魂还被丢到了其他世界，附在了一个小乞丐。 杨戬作为司法天神，刚好碰见了去上任的官员，见他一个凡人，没什么功德却能为官，一查才知道。 作为补偿，杨戬收陈槊为记名弟子，传他天眼、《道德经》、《八九玄功》改良版的《九转金身诀》，要是陈槊能修炼成仙，就收他为徒。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119af8d72ddc20a9d24eddaa25a9a129~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=QSj0QK4k3QqF%2FUwwIgaXeUWqTVs%3D",
+          "url": "https://fanqienovel.com/page/7647439310525828121"
+        },
+        {
+          "title": "穿越70年，开局一本合欢宗秘籍",
+          "author": "都退后让贫道来",
+          "reads": "3.3万",
+          "intro": "负债累累后无奈躺平的现代中登李轻舟意外捡到个系统，加入穿越大军幻想修炼成仙，结果被坑了。 系统不着调，不仅没有带他穿越修仙世界，反而把他送到了70年，扔下一些破烂后提桶跑路了。 70年啊，一个特别有激情却又相当让人不自在的年代，一不小心就要被收拾。 作为一个肩不能扛、手不能提的现代废柴，李轻舟孤身而来，欲哭无泪，生怕自己活不过三集。 盘点系统给的破烂后，李轻舟哭的更大声了—— 一本合欢宗初级功法，一个打不开的芥子空间，空间里一把强化过的唐刀，一个用来改变容貌、隐匿踪迹的幻相敛息玉符，几枚灵石，一些合欢宗用的迷药，一身避尘夜行衣…… 看看，看看，有限制就算了，狗屁系统给的这都是些什么玩意儿？合欢迷药和夜行衣都搞出来了，确定这不是采花贼的标准配置？ 关键是你倒是把东西给我啊，打开芥子空间需要双修获得灵力是什么鬼操作？ 好吧，既来之则安之，反正也回不去了，合欢宗就合欢宗吧，合欢宗就不是修仙宗门了？ 虽然后世他只是一个有贼心没贼胆的老光棍，来了这个陌生的世界，为了生存，他的道德底线也不是不能调的更低一些。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od33c541cb02b21c27e35c76ce1513056~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=NMcOIwAbFRIAKt87nST%2Bmv2WL4s%3D",
+          "url": "https://fanqienovel.com/page/7656998233381555225"
+        },
+        {
+          "title": "村花你疯了，傻子你也要？",
+          "author": "壮士一去兮",
+          "reads": "3.6万",
+          "intro": "【傻子很幸福，女人很漂亮】 大学生林枫变成傻子后，村里的姐姐们很照顾他。 有一天，他突然获得了传承，脑子也正常了。 然后，他就带着姐姐们挣大钱，让她们过上了幸福美好的生活！ 这是一个傻子逆袭成王的传奇故事！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2b5564c4c41553f4b01f004c614aea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=sa3Pv96wblAG%2FW52kMnMc35GOnQ%3D",
+          "url": "https://fanqienovel.com/page/7650556384353717310"
         },
         {
           "title": "开局解锁武圣特效，谁敢欺负我？",
           "author": "五十胜天命之年",
-          "reads": "1.7万",
+          "reads": "1.5万",
           "intro": "【都市高武】 + 【特效装逼】 + 【全员迪化】 + 【暴爽无敌】 + 【搞笑】 都市武道盛行，强者为尊，欺凌之事屡见不鲜。 福利院少年姜澜，因为没钱没权没势，饱受欺压，绝境之下意外解锁武圣特效！ 圣辉笼罩，威压震慑四方，武圣气场尽显！ 往日欺辱我的人？如今放眼全城，又有何人敢再动手？ 姜澜负手而立，开启武圣特效：“今我为武圣，尔等谁敢在我面前造次！” 面对暗黑禁区主宰降临世界，欲要毁灭世界。 然而姜澜直接特效全开！ 【叮，杀意，血海幽冥特效开启，在他人眼中你就是生杀夺予幽冥地狱之主！】 【叮，万剑归宗特效开启，无数剑影遮天蔽日，恐怖剑势威震八方！】 【叮，天雷滚滚特效开启，天空乌云密布，雷鸣滚滚，宛如苍天雷罚降临！】 【叮，大荒囚天指特效开启，恐怖巨指从天而降，一指碎天，镇苍穹！】 禁区之主看到如此恐怖的异象，直接吓得瑟瑟发抖。 怎么没人告诉我，这个世界已经诞生了如此恐怖的绝世强者？ 就是给我一百个胆子，我也不敢在这里动手啊。 随着看着黑暗禁区主宰狼狈逃窜，全球顶尖势力皆是震惊。 “谁言人族无大帝？” 凭一身武圣异象横走都市，从此无人敢犯，一步步登临武道巅峰！ 对此，姜澜只是冷傲一笑，仙之巅 傲世间 有我姜澜便有天！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od44c2be4be46e8209a59384ccb99b153~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785722072&x-signature=jsnGa9fmJqXYiplR5FElTMILrns%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od44c2be4be46e8209a59384ccb99b153~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806983&x-signature=WZ4UdJr0sFykWzfcU8plp1P86Io%3D",
           "url": "https://fanqienovel.com/page/7645626213058219070"
         }
       ]
